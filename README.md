@@ -16,3 +16,13 @@ If we try posting anything then the swagger ui will demand for it in querry form
 In this file we import the db.py and modals.py files.After that we create "get" , "post" , "delete" and "put" operations to perform the CRUD operations. So now when any user updates the data in localhost:8000/docs (i.e) FastAPI Swagger Ui , that data will be saved in our collection in MongoDb which is named as 'Petstore'.*/
 
 //We connect the database through MongoDb compass as it is very simple through this method.
+
+
+
+
+
+
+
+![Screenshot (2)](https://user-images.githubusercontent.com/113875363/226936540-bc73aae1-0e63-49d8-86f2-f51f98907662.png)
+
+
