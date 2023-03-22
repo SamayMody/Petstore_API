@@ -20,9 +20,28 @@ In this file we import the db.py and modals.py files.After that we create "get" 
 
 
 
-
+The below screenshot is the proof that with the written program the CRUD operations are created in the FastApi temporary database to test.
 
 
 ![Screenshot (2)](https://user-images.githubusercontent.com/113875363/226936540-bc73aae1-0e63-49d8-86f2-f51f98907662.png)
+
+
+The below screenshot is the proof that i was succesful in creating 3 data entries!!!
+
+
+
+
+
+
+
+
+
+![Screenshot (3)](https://user-images.githubusercontent.com/113875363/226937729-46f82d1b-5f47-4cc2-a7bd-18b157a15e35.png)
+
+
+
+The below is the screenshot of the proof that all the data's is succesfully stored in the MongoDB database and is added to the collection named 'Petstore'
+
+![Screenshot (4)](https://user-images.githubusercontent.com/113875363/226938294-ca31e4f7-0a53-40b5-9bca-31b5c7856a1a.png)
 
 
